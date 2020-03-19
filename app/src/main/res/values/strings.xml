@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <string name="title_activity_segunda_actividad">SegundaActividad</string>
+
+    <string name="txt2">¡Este es tu mensaje!</string>
+    <string name="editar_mensaje">Ingresar un mensaje</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="textView3">mensaje</string>
+</resources>
